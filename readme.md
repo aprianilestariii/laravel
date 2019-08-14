@@ -1,3 +1,3 @@
 # Belajar
 
-Ini adalah repositorie. Saya sedang belajar git
+Ini adalah repository. Saya sedang belajar git
